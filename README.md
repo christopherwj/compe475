@@ -17,3 +17,7 @@ FIR Filter demo (Part a only) - May 3rd May 6th
 Exam 1 - March 4th March 11th
 Exam 2 - April 13th
 Final Exam - May 13th from 1:00 PM - 3:00 PM (PST)
+
+
+The link to buy the FPGA board needed for this class is listed below ($89):
+https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-minized-7z007-g-3074457345635221588/
