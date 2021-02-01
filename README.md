@@ -4,7 +4,7 @@ Demos will start at 9 AM with roughly 5 minutes per student.
 I want to emphasize that there will be no time for debugging you design, only demonstration of what you have completed. 
 
 
-![alt text](https://ibb.co/Lp7Bs3B)
+![alt text](https://github.com/christopherwj/475_code/blob/main/sched.png?raw=true)
 
 
 The link to buy the FPGA board needed for this class is listed below ($89):
